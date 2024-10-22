@@ -12,8 +12,6 @@ this project assumes the maker is comfortable drilling holes in metal, deburring
 | connecting wire between connectors, switches      |22 AWG stranded wire|  |       1    |
 
 
-* note that at time of publishing, the silver colorway of NAUSB3-B is less expensive than the black colorway.
-
 ### suggested tools list  
 
 | Tool | Purpose | Relevant McMaster-Carr Link |
