@@ -21,7 +21,6 @@ this project assumes the maker is comfortable drilling holes in metal, deburring
 | Metal deburring tool | enclosure machining - clearing drilled hole| |
 | Phillips-head #1 screw driver | enclosure assembly - attaching connectors to enclosure|
 | Needle nose pliers| enclosure assembly - toggle switch attachment| 
-
 | Soldering iron | electrical connections between switches and sockets, along with 22 AWG stranded wire|
 | Calipers | measuring and placing hole location on enclosure|
 | Soldering iron | electrical connections between switches and sockets, along with 22 AWG stranded wire|
