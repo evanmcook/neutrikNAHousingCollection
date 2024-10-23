@@ -20,7 +20,7 @@ this project assumes the maker is comfortable drilling holes in metal, deburring
 | Drill | enclosure machining - drilling hole | |
 | Drill bit  | enclosure machining - drilling hole | [6.2mm drill bit @ McMaster](https://www.mcmaster.com/28255A116/)|
 | Metal deburring tool | enclosure machining - clearing drilled hole| |
-| Phillips-head #1 screw driver | enclosure assembly - attaching connectors to enclosure|
+| Phillips-head #1 bit for drill | enclosure assembly - attaching connectors to enclosure|
 | Needle nose pliers| enclosure assembly - toggle switch attachment| 
 | Bench vise with soft jaws| enclosure assembly - final installation of screw hardware| 
 | Soldering iron | electrical connections between switches and sockets, along with 22 AWG stranded wire|
