@@ -12,6 +12,20 @@ this project assumes the maker is comfortable drilling holes in metal, deburring
 | connecting wire between connectors, switches      |22 AWG stranded wire|  |       500mm  (includes extra)  |
 |3x8 thread forming screws | screws to replace neutrik default screws| [McMaster](https://www.mcmaster.com/94209A356/)|4 (comes in pack of 100)|
 
+### additional parts to build  
+this project works best with an XLR-4 extension cable. you may not have one of these in your workplace.  
+thankfully, if you can solder, or know someone who does, it is trivial to manufacture your own.
+
+| Part Designator   | Part Description/Vendor Name | Vendor Link | Qty needed |
+|-------------------|------------------------------|-------------|------------|
+| Wire, 4 conductor with shield, by the foot       | Mogami W2799          |    [Performance Audio](https://www.performanceaudio.com/products/mogami-w2799-neglex-mini-quad-console-cable-by-the-foot)       |       to length, 15' suggested.    |1|
+| XLR-4 connector with pins | NC4MX         |   [markertek](https://www.markertek.com/product/nc4mx/neutrik-nc4mx-4-pin-xlr-male-cable-connector)          |      1   |
+| XLR-4 connector with sockets  | NC4FXX      |   [markertek](https://www.markertek.com/product/nc4fxx/neutrik-nc4fxx-4-pole-female-cable-connector)     |      1     |
+| heat shrink  | for strain relief sizing     |  |      4"    |  
+
+heat shrink is needed for the NC4MX and NC4FXX rear bushing to have enough material to grip the wire jacket of Mogami W2799.  
+ [see neutrik XLR assembly information for best practices on installing neutrik connectors on unterminated wire.](https://www.neutrik.com/media/8050/download/xlr-xx-series.pdf?v=1)
+
 
 ### suggested tools list  
 
