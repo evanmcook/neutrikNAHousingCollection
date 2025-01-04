@@ -12,7 +12,7 @@ this project requires an order from SendCutSend, and is therefore less 'off the 
 | M3 hex standoffs  | ~10mm length |   [McMaster](https://www.mcmaster.com/93655A009/)|       2    |
 | M3 screws  | thick enough to fasten wedge plate to standoff. i used what i had on hand. |   example: [McMaster](https://www.mcmaster.com/94209A356/)|       2    |
 
-
+[see here for file to upload to SendCutSend.](bottleOpener/naHousingBottleOpen001.dwg)
 
 ### suggested tools list  
 
