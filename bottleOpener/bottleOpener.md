@@ -1,5 +1,5 @@
 ### bottle opener
-the NA housing can be used to create a lever, for the opening of bottles. 
+the NA housing can be used to create a lever, for the opening of bottles.  
 this is not an affordable project. there are much better ways to open bottles. some may argue this project a bad idea, and they have good reason to say so.  
 this project requires an order from SendCutSend, and is therefore less 'off the shelf' than other projects in this collection.  
 
