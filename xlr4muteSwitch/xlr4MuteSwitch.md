@@ -2,6 +2,8 @@
 the NA housing can be used as a project box for a simple switching circuit, in order to allow an intercom user to mute their talk signal without having to reach their remote station or belt pack.  
 this project assumes the maker is comfortable drilling holes in metal, deburring, wire cutting, wire stripping, and thru-hole soldering.  
 
+# this project has some electrical errors and will be updated soon to revise.
+
 ### suggested parts list  
 | Part Designator   | Part Description/Vendor Name | Vendor Link | Qty needed |
 |-------------------|------------------------------|-------------|------------|
