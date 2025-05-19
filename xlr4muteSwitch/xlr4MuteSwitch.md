@@ -37,9 +37,9 @@ heat shrink is needed for the NC4MX and NC4FXX rear bushing to have enough mater
 | Drill bit  | enclosure machining - drilling hole | [6.2mm drill bit @ McMaster](https://www.mcmaster.com/28255A116/)|
 | Metal deburring tool | enclosure machining - clearing drilled hole| |
 | Phillips-head #1 bit for drill | enclosure assembly - attaching connectors to enclosure|
-| Needle nose pliers| enclosure assembly - toggle switch attachment| 
+| Needle nose pliers| enclosure assembly - toggle switch attachment|
+| [plastic wrenches](https://www.thingiverse.com/thing:3040025) | enclosure assembly - alternative to needle nose pliers|
 | Bench vise with soft jaws| enclosure assembly - final installation of screw hardware| 
-| Soldering iron | electrical connections between switches and sockets, along with 22 AWG stranded wire|
 | Calipers | measuring and placing hole location on enclosure|
 | Soldering iron | electrical connections between switches and sockets, along with 22 AWG stranded wire|
 | Solder| electrical connections between switches and sockets, along with 22 AWG stranded wire|
