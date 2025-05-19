@@ -47,12 +47,13 @@ heat shrink is needed for the NC4MX and NC4FXX rear bushing to have enough mater
 
 ### process  
 tap a hole in the enclosure, 30mm-32.5mm from the edge. be careful to center the hole along the short side so that the retaining lug of the toggle switch can catch in the center slot of the enclosure.  
-cut 3 pieces of wire @ 36mm. measure how much casing to strip off of pins 2,3,4. i used 4mm as a starting point.  
-cut 2 pieces of wire @ 30mm. test the length of this wire from pin 1 to the switch, and the switch to the opposite pin 1. 
-cut 1 piece of 50 wire @ 55mm. measure from ground lug to ground lug. remove excess.  
+cut 2 pieces of wire @ 36mm. measure how much casing to strip off of wire to connect pins pins 3,4 of XLR connectors . i used 4mm as a starting point.  
+cut 4 pieces of wire @ 30mm. test the length of this wire from pin 1 and 2 of one XLR to the switch, and then switch to the opposite pin 1 and 2. 
+cut 1 piece of wire @ 55mm. measure from ground lug to ground lug. remove excess.  
+cut 1 piece of wire @ 20mm. this bridges pins 1 and 4 on the switch.
 ensure the switch is mounted in the enclosure with the ON position facing the XLR-4 F side.  
-solder connection from pin 1 to the swich, and then the switch to the opposite pin 1.
-solder 4 wires to pins, and 1 wire to ground lug, on one side only. 
+solder wires according to diagram:
+
 after visual inspection and continuity test, solder to the opposite connector.  
 perform function test on com rig with a listening partner.  
 secure both sides of the enclosure together, clamp with vise, and perform final installation of screws.  
