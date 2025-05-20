@@ -40,6 +40,7 @@ heat shrink is needed for the NC4MX and NC4FXX rear bushing to have enough mater
 | ------------- | ------------- |------------- |
 | Drill | enclosure machining - drilling hole | |
 | Drill bit  | enclosure machining - drilling hole | [6.2mm drill bit @ McMaster](https://www.mcmaster.com/28255A116/)|
+| Cutting fluid | enclosure machining - drilling hole | [Tap Magic](https://www.mcmaster.com/10015K14/)|
 | Metal deburring tool | enclosure machining - clearing drilled hole| |
 | Phillips-head #1 bit for drill | enclosure assembly - attaching connectors to enclosure|
 | Needle nose pliers| enclosure assembly - toggle switch attachment|
