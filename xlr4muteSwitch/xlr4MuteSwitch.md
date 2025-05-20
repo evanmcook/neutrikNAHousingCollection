@@ -2,7 +2,12 @@
 the NA housing can be used as a project box for a simple switching circuit, in order to allow an intercom user to mute their talk signal without having to reach their remote station or belt pack.  
 this project assumes the maker is comfortable drilling holes in metal, deburring, wire cutting, wire stripping, and thru-hole soldering.  
 
-# a previous version of this project contained electrical errors. these errors are in process of being fixed.
+this is version 2 of the XLR-4 mute switch guide, the previous version used a SPST switch wired to the incorrect pin.
+
+### disclaimer
+
+these directions are provided "as is" without warranties of fitness for a particular purpose. this could mean your purpose, too.  
+modifying safety-critical communications hardware is a risk that should not be undertaken in haste, and should not be done without thorough testing by qualified professionals.
 
 ### suggested parts list  
 | Part Designator   | Part Description/Vendor Name | Vendor Link | Qty needed |
@@ -45,18 +50,28 @@ heat shrink is needed for the NC4MX and NC4FXX rear bushing to have enough mater
 | Solder| electrical connections between switches and sockets, along with 22 AWG stranded wire|
 
 
-### process  
-tap a hole in the enclosure, 30mm-32.5mm from the edge. be careful to center the hole along the short side so that the retaining lug of the toggle switch can catch in the center slot of the enclosure.  
+### machining process  
+tap a hole in the enclosure, 30mm-32.5mm from the edge. be careful to center the hole along the short side so that the retaining lug of the toggle switch can catch in the center slot of the enclosure.   
+
+### wiring process  
 cut 2 pieces of wire @ 36mm. measure how much casing to strip off of wire to connect pins pins 3,4 of XLR connectors . i used 4mm as a starting point.  
 cut 4 pieces of wire @ 30mm. test the length of this wire from pin 1 and 2 of one XLR to the switch, and then switch to the opposite pin 1 and 2.  
 cut 1 piece of wire @ 55mm. measure from ground lug to ground lug. remove excess.  
-cut 1 piece of wire @ 20mm. this bridges pins 1 and 4 on the switch.  
-ensure the switch is mounted in the enclosure with the ON position facing the XLR-4 F side. (clarification to come )  
+cut 1 piece of wire @ 20mm. this bridges pins 1 and 4 on the switch.   
   
 solder wires according to diagram (click diagram to enlarge):
 
 <img src="https://github.com/evanmcook/neutrikNAHousingCollection/blob/main/xlr4muteSwitch/muteSwitchWiring_20250518.png" alt="bottom and top of replacement PCB" width="60%" height="60%">
 
-after visual inspection and continuity test, solder to the opposite connector.  
-perform function test on com rig with a listening partner.  
-secure both sides of the enclosure together, clamp with vise, and perform final installation of screws.  
+after visual inspection and continuity test, solder to the opposite connector. 
+
+
+*before securing the wired assembly to the chassis,* it is recommended that you perform function test on com rig with a listening partner.  
+
+### final installation process  
+if you build using the above wire measurements, there ought to be a small amount of slack in the wiring that allows the switch chassis to be rotated 180º. 
+it is the recommendation of the author that you position the chassis of the switch so that when the bat of the switch points towards the XLR sockets connector, the talk is enabled.   
+ensure the switch is mounted in the enclosure with the 'Talk On' position facing the way that you desire.
+
+secure both sides of the enclosure together, clamp lightly with vise, and perform final installation of screws.  
+label the 'Talk On' position clearly with label tape or engraving.  
