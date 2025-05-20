@@ -55,7 +55,8 @@ tap a hole in the enclosure, 30mm-32.5mm from the edge. be careful to center the
 
 ### wiring process  
 cut 2 pieces of wire @ 36mm. measure how much casing to strip off of wire to connect pins pins 3,4 of XLR connectors . i used 4mm as a starting point.  
-cut 4 pieces of wire @ 30mm. test the length of this wire from pin 1 and 2 of one XLR to the switch, and then switch to the opposite pin 1 and 2.  
+cut 2 pieces of wire @ 30mm. test the length of this wire from pin 1 and 2 of one XLR to the switch. these wires connect from pin 1 and 2 on XLR pins to the middle poles of the switch.  
+cut 2 pieces of wire @ 40 mm. these wires connect pin 1 and 2 on XLR sockets to the poles of the switch opposite the bridged switch contacts.  
 cut 1 piece of wire @ 55mm. measure from ground lug to ground lug. remove excess.  
 cut 1 piece of wire @ 20mm. this bridges pins 1 and 4 on the switch.   
   
@@ -63,15 +64,18 @@ solder wires according to diagram (click diagram to enlarge):
 
 <img src="https://github.com/evanmcook/neutrikNAHousingCollection/blob/main/xlr4muteSwitch/muteSwitchWiring_20250518.png" alt="bottom and top of replacement PCB" width="60%" height="60%">
 
+<img src="https://github.com/evanmcook/neutrikNAHousingCollection/blob/main/xlr4muteSwitch/assembly1.png" alt="bottom and top of replacement PCB" width="60%" height="60%">
+<img src="https://github.com/evanmcook/neutrikNAHousingCollection/blob/main/xlr4muteSwitch/assembly2.png" alt="bottom and top of replacement PCB" width="60%" height="60%">
+<img src="https://github.com/evanmcook/neutrikNAHousingCollection/blob/main/xlr4muteSwitch/assembly3.png" alt="bottom and top of replacement PCB" width="60%" height="60%">
+<img src="https://github.com/evanmcook/neutrikNAHousingCollection/blob/main/xlr4muteSwitch/assembly4.png" alt="bottom and top of replacement PCB" width="60%" height="60%">
+
 after visual inspection and continuity test, solder to the opposite connector. 
 
 
 *before securing the wired assembly to the chassis,* it is recommended that you perform function test on com rig with a listening partner.  
 
 ### final installation process  
-if you build using the above wire measurements, there ought to be a small amount of slack in the wiring that allows the switch chassis to be rotated 180º. 
-it is the recommendation of the author that you position the chassis of the switch so that when the bat of the switch points towards the XLR sockets connector, the talk is enabled.   
-ensure the switch is mounted in the enclosure with the 'Talk On' position facing the way that you desire.
+
 
 secure both sides of the enclosure together, clamp lightly with vise, and perform final installation of screws.  
 label the 'Talk On' position clearly with label tape or engraving.  
