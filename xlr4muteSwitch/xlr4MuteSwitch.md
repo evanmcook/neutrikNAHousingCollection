@@ -55,24 +55,45 @@ tap a hole in the enclosure, 30mm-32.5mm from the edge. be careful to center the
 
 ### wiring process  
 cut 2 pieces of wire @ 36mm. measure how much casing to strip off of wire to connect pins pins 3,4 of XLR connectors . i used 4mm as a starting point.  
+cut 1 piece of wire @ 55mm. measure from ground lug to ground lug.
+
 cut 2 pieces of wire @ 30mm. test the length of this wire from pin 1 and 2 of one XLR to the switch. these wires connect from pin 1 and 2 on XLR pins to the middle poles of the switch.  
 cut 2 pieces of wire @ 40 mm. these wires connect pin 1 and 2 on XLR sockets to the poles of the switch opposite the bridged switch contacts.  
-cut 1 piece of wire @ 55mm. measure from ground lug to ground lug. remove excess.  
+
 cut 1 piece of wire @ 20mm. this bridges pins 1 and 4 on the switch.   
   
-solder wires according to diagram (click diagram to enlarge):
+solder wires according to diagrams (click diagrams to enlarge):
 
 <img src="https://github.com/evanmcook/neutrikNAHousingCollection/blob/main/xlr4muteSwitch/muteSwitchWiring_20250518.png" alt="bottom and top of replacement PCB" width="60%" height="60%">
 
+
+the following wiring diagrams show the assembly with the solder lugs of the switch facing towards the user. it is recommended you solder in this orientation.
+ 
 <img src="https://github.com/evanmcook/neutrikNAHousingCollection/blob/main/xlr4muteSwitch/assembly1.png" alt="bottom and top of replacement PCB" width="60%" height="60%">
-<img src="https://github.com/evanmcook/neutrikNAHousingCollection/blob/main/xlr4muteSwitch/assembly2.png" alt="bottom and top of replacement PCB" width="60%" height="60%">
-<img src="https://github.com/evanmcook/neutrikNAHousingCollection/blob/main/xlr4muteSwitch/assembly3.png" alt="bottom and top of replacement PCB" width="60%" height="60%">
+
+solder the 36mm wires to pins 3 and 4 of the XLR socket connector. solder the 55mm wire to the ground lug of the XLR socket connector.  
+bridge one side of the switch and maintain the switches orientation with the wire of the bridge pointing towards the XLR socket connector.  
+
+_____
+
+<img src="https://github.com/evanmcook/neutrikNAHousingCollection/blob/main/xlr4muteSwitch/assembly2.png" alt="bottom and top of replacement PCB" width="60%" height="60%">  
+
+solder the 30 mm wires to the middle poles of the switch.   
+
+_____
+
+<img src="https://github.com/evanmcook/neutrikNAHousingCollection/blob/main/xlr4muteSwitch/assembly3.png" alt="bottom and top of replacement PCB" width="60%" height="60%">  
+
+solder the 40mm wires to pins 1 and 2 of the XLR socket connector, then to the far poles of the switch.  
+_____ 
+
 <img src="https://github.com/evanmcook/neutrikNAHousingCollection/blob/main/xlr4muteSwitch/assembly4.png" alt="bottom and top of replacement PCB" width="60%" height="60%">
 
-after visual inspection and continuity test, solder to the opposite connector. 
+
+after visual inspection and continuity test, solder all connections the XLR pins connector. 
 
 
-*before securing the wired assembly to the chassis,* it is recommended that you perform function test on com rig with a listening partner.  
+*before securing the wired assembly to the chassis,* it is recommended that you perform function test on com rig with a listening partner.  when the switch actuator is pushed towards the XLR sockets connector, the talk function of the mic connected to the switch should be enabled.  
 
 ### final installation process  
 
