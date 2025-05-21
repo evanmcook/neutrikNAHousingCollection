@@ -98,6 +98,6 @@ after visual inspection and continuity test, solder all connections the XLR pins
 
 ### final installation process  
 
-
-secure both sides of the enclosure together, clamp lightly with vise, and perform final installation of screws.  
+secure the switch into the chassis first using needle nose pliers or the plastic wrench set listed above.  
+then secure both sides of the enclosure together, clamp lightly with vise, and perform final installation of screws into connectors.    
 label the 'Talk On' position clearly with label tape or engraving.  
