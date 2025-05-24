@@ -2,12 +2,14 @@
 the NA housing can be used as a project box for a simple switching circuit, in order to allow an intercom user to mute their talk signal without having to reach their remote station or belt pack.  
 this project assumes the maker is comfortable drilling holes in metal, deburring, wire cutting, wire stripping, and thru-hole soldering.  
 
-this is version 2 of the XLR-4 mute switch guide, the previous version used a SPST switch wired to the incorrect pin.
+this is version 2 of the XLR-4 mute switch guide, the previous version used a SPST switch wired to the incorrect pin, and had a connection between the ground lugs of the connectors. neither of these practices is recommended.  
 
 ### disclaimer
 
 these directions are provided "as is" without warranties of fitness for a particular purpose. this could mean your purpose, too.  
 modifying safety-critical communications hardware is a risk that should not be undertaken in haste, and should not be done without thorough testing by qualified professionals.
+
+the MN22SS4W01 switch produces an audible click on the com line when the switch is engaged. alternatives to this switch are being researched.  
 
 ### suggested parts list  
 | Part Designator   | Part Description/Vendor Name | Vendor Link | Qty needed |
@@ -56,7 +58,6 @@ tap a hole in the enclosure, 30mm-32.5mm from the edge. be careful to center the
 
 ### wiring process  
 cut 2 pieces of wire @ 36mm. measure how much casing to strip off of wire to connect pins pins 3,4 of XLR connectors . i used 4mm as a starting point.  
-cut 1 piece of wire @ 55mm. measure from ground lug to ground lug.
 
 cut 2 pieces of wire @ 30mm. test the length of this wire from pin 1 and 2 of one XLR to the switch. these wires connect from pin 1 and 2 on XLR pins to the middle poles of the switch.  
 cut 2 pieces of wire @ 40 mm. these wires connect pin 1 and 2 on XLR sockets to the poles of the switch opposite the bridged switch contacts.  
@@ -72,7 +73,7 @@ the following wiring diagrams show the assembly with the solder lugs of the swit
  
 <img src="https://github.com/evanmcook/neutrikNAHousingCollection/blob/main/xlr4muteSwitch/assembly1.png" alt="bottom and top of replacement PCB" width="60%" height="60%">
 
-solder the 36mm wires to pins 3 and 4 of the XLR socket connector. solder the 55mm wire to the ground lug of the XLR socket connector.  
+solder the 36mm wires to pins 3 and 4 of the XLR socket connector. 
 bridge one side of the switch and maintain the switches orientation with the wire of the bridge pointing towards the XLR socket connector.  
 
 _____
